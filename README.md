@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Munazzah, I graduated with a master’s degree in Computer Science and soon after moved to the US on a non-work visa. I immersed myself in arts & crafts classes and became involved in event management as I enjoyed doing all this. I became eligible to work in the US but by that time my software engineering skills were a bit rusty and I was behind on industry trends. I had always been passionate about problem solving and algorithms. Recently, some of my friends graduated from Hackbright that led me back to computer science and reignited my passion for software engineering. I am excited about finally pursuing my dream and passion in information technology and software engineering.
 
